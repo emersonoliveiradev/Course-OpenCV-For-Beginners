@@ -3,4 +3,4 @@ This code was built through the OpenCV Beginners Course, by Satya Mallick, avail
 
 Esta é minha pequena contribuição para a comunidade, sintetizando um pouco mais o conteúdo disponbilizado no curso. Espero que possa lhes ser útil, assim como foi para mim. :)
 
-
+Obs: Decidi por fazer tudo em inglês a fim de melhorar também minhas abilidades com a língua. (ignorem qualquer erro que possa existir com relação a isso)
